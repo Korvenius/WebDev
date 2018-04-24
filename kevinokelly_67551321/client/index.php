@@ -6,6 +6,8 @@
 </head>
 <body>
 
+<p>Code based on examples given on Moodle</p>
+
 
 <div id="insert">
 <h1>Add Data</h1>
